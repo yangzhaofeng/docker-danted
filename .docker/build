@@ -1,1 +1,3 @@
-apt update && apt install -y dante-server
+apt update && apt upgrade -y
+apt install -y dante-server
+apt clean
