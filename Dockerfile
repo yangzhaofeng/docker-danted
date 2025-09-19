@@ -1,4 +1,4 @@
-FROM smartentry/debian:stable
+FROM smartentry/debian:bookworm
 
 MAINTAINER Steven Yang <yangzhaofengsteven@gmail.com>
 
